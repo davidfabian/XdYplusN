@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XdYplusN</string>
+    <string name="d_text">d</string>
+    <string name="plus_sign"> + </string>
+    <string name="roll">let\'s roll!</string>
+    <string name="result">Result: </string>
+</resources>
